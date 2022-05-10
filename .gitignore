@@ -1,0 +1,8 @@
+.idea
+data
+*.pkl
+*.fth
+*.parquet
+
+save_data.py
+script.py
